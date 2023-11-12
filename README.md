@@ -4,6 +4,7 @@ Watch the video below to see:
 
 <p align="center">
   <a href="https://youtu.be/C2W9qRDupLg">
-     <img src="[[<iframe width="640" height="360" src="https://www.youtube.com/embed/C2W9qRDupLg" title="MUSHROOM LAMP" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>](https://youtu.be/C2W9qRDupLg?t=12)https://youtu.be/C2W9qRDupLg?t=12">
+     <img src="https://img.youtu.be/C2W9qRDupLg?t=12.jpg" alt="Watch the video.">
   </a>
 </p>
+
