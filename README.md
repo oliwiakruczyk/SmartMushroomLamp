@@ -4,8 +4,7 @@ Watch the video below to see:
 
 <p align="center">
   <a href="https://youtu.be/C2W9qRDupLg">
-    ![iScreen Shoter - 20231112214107980](https://github.com/oliwiakruczyk/SmartMushroomLamp/assets/150608343/1284d943-a45d-44b6-8d85-d33710f46e2b)
-  </a>
+       <img src="https://img.youtube.com/C2W9qRDupLg.jpg" alt="Watch the video.">
 </p>
 
 Get an inside look at Mushroom Lamp by browsing the following images:
