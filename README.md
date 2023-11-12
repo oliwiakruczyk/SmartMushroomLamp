@@ -4,8 +4,8 @@ Watch the video below to see:
 
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=C2W9qRDupLg">
-     <img src="https://img.youtube.com/vi/C2W9qRDupLg/0.jpg" alt="Watch the video.">
+  <a href="https:/https://youtu.be/51IE__0Ux5U">
+     <img src="https://img.youtube.com/vi/51IE__0Ux5U/0.jpg" alt="Watch the video.">
   </a>
 </p>
 
