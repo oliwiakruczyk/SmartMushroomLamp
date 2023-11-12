@@ -4,7 +4,7 @@ Watch the video below to see:
 
 <p align="center">
   <a href="https://youtu.be/C2W9qRDupLg">
-     <img src="https://img.youtu.be/C2W9qRDupLg?t=12.jpg" alt="Watch the video.">
+    ![iScreen Shoter - 20231112214107980](https://github.com/oliwiakruczyk/SmartMushroomLamp/assets/150608343/1284d943-a45d-44b6-8d85-d33710f46e2b)
   </a>
 </p>
 
@@ -14,6 +14,11 @@ Get an inside look at Mushroom Lamp by browsing the following images:
   
   ![387573574_1088473455655157_5085239878886346768_n](https://github.com/oliwiakruczyk/SmartMushroomLamp/assets/150608343/78e01aaf-1192-4b05-96cb-8efaf7abee82)
   ![IMG_8187 3](https://github.com/oliwiakruczyk/SmartMushroomLamp/assets/150608343/747555b4-9256-4e43-a23a-f7b559609067)
-  ![IMG_8187 3](ht![lampa_bb](https://github.com/oliwiakruczyk/SmartMushroomLamp/assets/150608343/727eaf65-60df-4ae6-af12-03419c24bf3c)
+![IMG_8194 3](https://github.com/oliwiakruczyk/SmartMushroomLamp/assets/150608343/65f086f7-164d-40f0-aa40-ba6d6722c089)
+
+
+In the schematic used for this project, the Philips Hue LED strip has been replaced with standard LED diodes to maintain the design's simplicity.
+![lampa_bb](https://github.com/oliwiakruczyk/SmartMushroomLamp/assets/150608343/c1c7fb30-fa38-470f-b8f4-1336169ebc73)
 </p>
+
 
