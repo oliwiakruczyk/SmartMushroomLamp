@@ -14,9 +14,9 @@ Get an inside look at Mushroom Lamp by browsing the following images:
   ![387573574_1088473455655157_5085239878886346768_n](https://github.com/oliwiakruczyk/SmartMushroomLamp/assets/150608343/78e01aaf-1192-4b05-96cb-8efaf7abee82)
   
 ![IMG_8194 3](https://github.com/oliwiakruczyk/SmartMushroomLamp/assets/150608343/65f086f7-164d-40f0-aa40-ba6d6722c089)
-align="center">
+
 ![iScreen Shoter - Safari - 231112214816](https://github.com/oliwiakruczyk/SmartMushroomLamp/assets/150608343/730f688b-a5f7-4993-8371-bd6e9ee20195)
-align="center">
+
 ![iScreen Shoter - Safari - 231112214627](https://github.com/oliwiakruczyk/SmartMushroomLamp/assets/150608343/9728c66a-3101-45de-837c-368efb0d6a1c)
 
 
