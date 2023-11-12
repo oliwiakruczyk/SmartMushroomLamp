@@ -1,10 +1,10 @@
 
 Smart Mushroom Lamp: A Wi-Fi-controlled lighting solution that brings a touch of nature indoors. Customize colors and brightness via a web interface to set the perfect mood. Ideal for smart homes and DIY enthusiasts.
 Watch the video below to see:
-
+https://youtu.be/51IE__0Ux5U
 
 <p align="center">
-  <a href="https:/https://youtu.be/51IE__0Ux5U">
+  <a href="https://youtu.be/51IE__0Ux5U">
      <img src="https://img.youtube.com/vi/51IE__0Ux5U/0.jpg" alt="Watch the video.">
   </a>
 </p>
